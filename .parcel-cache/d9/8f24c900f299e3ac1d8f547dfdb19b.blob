@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="47441c07904c31a480d7c91e0bb0735d">
+  <title>Frontend Mentor | Stats preview card component</title>
+  <link rel="stylesheet" href="7593f7b9c815ecdbe2e588845f336efa">
+</head>
+<body>
+  <div class="project-container">
+    <section class="card">
+      <div class="card__image"></div>
+      <div class="card__text__wrapper">
+        <h2 class="card__header">Get <span class="purple">insights</span> that help your business grow.</h2>
+        <p class="card__text">
+          Discover the benefits of data analytics and make better decisions regarding revenue, customer 
+          experience, and overall efficiency.
+        </p>
+        <div class="card__stats">
+          <p class="stat">10+<span class="small-text">companies</span></p>
+          <p class="stat">314<span class="small-text">templates</span></p>
+          <p class="stat">12M+<span class="small-text">queries</span></p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <div class="attribution">
+    Challenge by <a href="1bc81a9847a1f7cbb1ca8393f2a022e5" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+</body>
+</html><script src="202f65accccb6071212b96a1d3c27081"></script>

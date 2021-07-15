@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  color: white;
+  background: #090b1a;
+}
+ol, ul {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.project-container {
+  margin: 88px 24px;
+}
+.card {
+  margin: 0 auto;
+  width: 327px;
+  background-color: red;
+}
+.card__image {
+  height: 240px;
+  background-image: linear-gradient(to right, rgba(170, 92, 219, 0.7), rgba(170, 92, 219, 0.7)), url("5061629309cd8252db999f011025fa19");
+  background-position: center center;
+  background-size: cover;
+}

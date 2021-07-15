@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="47441c07904c31a480d7c91e0bb0735d">
+  <title>Frontend Mentor | Stats preview card component</title>
+  <link rel="stylesheet" href="7593f7b9c815ecdbe2e588845f336efa">
+</head>
+<body>
+
+  Get insights that help your business grow.
+
+  Discover the benefits of data analytics and make better decisions regarding revenue, customer 
+  experience, and overall efficiency.
+
+  10k+ companies
+  314 templates
+  12m+ queries
+
+  <div class="attribution">
+    Challenge by <a href="1bc81a9847a1f7cbb1ca8393f2a022e5" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+</body>
+</html><script src="202f65accccb6071212b96a1d3c27081"></script>

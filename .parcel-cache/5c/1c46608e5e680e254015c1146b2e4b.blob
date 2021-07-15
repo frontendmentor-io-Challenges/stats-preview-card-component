@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  background: #090b1a;
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+  color: white;
+}
+
+.project-container {
+  margin: 25px 24px;
+}
+
+.card {
+  margin: 0 auto;
+  max-width: 327px;
+  background-color: #1b1938;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card__image {
+  height: 240px;
+  background-image: linear-gradient(to right, #aa5cdb, #aa5cdb), url("./images/image-header-mobile.jpg");
+  background-blend-mode: multiply;
+  background-position: center center;
+  background-size: cover;
+}
+
+.card__text__wrapper {
+  padding: 40px 31px 32px;
+  text-align: center;
+}
+
+.card__header {
+  font-weight: 700;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.purple {
+  color: #aa5cdb;
+}
+
+.card__text {
+  margin-bottom: 20px;
+}
+
+.card__stats .stat {
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.small-text {
+  font-weight: 400;
+  font-size: 12px;
+  display: block;
+  text-transform: uppercase;
+}
+
+.attribution {
+  width: 100%;
+  color: white;
+  font-size: 12px;
+  text-align: center;
+  padding: 10px 5px;
+}
+.attribution a {
+  color: #aa5cdb;
+  text-decoration: none;
+}
